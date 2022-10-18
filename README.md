@@ -1,6 +1,21 @@
-# The React Native SDK for Oneid Tech
+<p style="text-align: center;">
+    <a href="https://oneidtech.com">
+    <img width="101" height="101" src="https://i.postimg.cc/XYwGw2WQ/One-ID-logo-Icon-PNG.png" alt="OneID" loading="lazy" /></a>
+</p>
 
-## Installation
+# The React Native SDK for OneID Tech
+
+[![NPM](https://img.shields.io/npm/v/oneid-react-native.svg)](https://www.npmjs.com/package/oneid-react-native)
+
+<p style="text-align: center;">
+    A library that gives you access to OneID SSO services from your React app. <a href="https://console.oneidtech.com">Create A Developer Account Here</a>
+</p>
+
+<br>
+
+For more information on OneID and its features, see [the documentation](https://developer.oneidtech.com).
+
+## 📲 Installation
 
 install the package via npm:
 
@@ -20,7 +35,7 @@ then link the package (for react-native < 0.60):
 react-native link oneid-react-native
 ```
 
-## Usage:
+## 💻 Usage:
 
 To use the SDK, you need to import it first:
 
